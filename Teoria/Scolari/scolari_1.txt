@@ -1,0 +1,47 @@
+Carlos Scolari — Hacer Click -Cap 2
+
+Para poder comprender o esquematizar la relación que el hombre crea al interactuar con el
+ordenador, las explicaciones se basan en “metáforas' como modeladores de percepción que nos
+permiten situarnos en el plano situacional y dar coherencia. Por ejemplo en lo que se refiere a la
+informática, usamos metáforas al identificar el sistema operador con el que trabaja el ordenador
+desde la ventana (window), el virus, 0 el menú que se abre y cierra con una simple acción del
+mouse. Las metáforas dentro de la informática se clasifican de la siguiente manera: la metáfora
+nal, la metáfora instrumental, la metáfora espacial y la metáfora superficial. La
+metafora conversacional resulta útil para comprender la relación entre hombre y las maquinas
+digitales a condición de que no se la aplique superficialmente. A menudo, algunos diseñadores,
+aplican la mteafora conversacional escondiendo un aspecto fundamental de la interacción con las
+máquinas digitales: no se dialoga directamente con el ordenador ni con los objetos representados
+en la pantalla, si no con el simulacro del diseñador. Cuando hablamos de metáfora, no hablamos
+de relación objeto-sujeto, si no de un intercambio simbolico entre dos entidades simuladas. La
+metáfora conversacional pobre, habla de dialogo entre usuario y sistema, que tienden a ocultar la
+figura del diseñador. Solo algunas corrientes de investigación en el campo de la interacción
+Persona-Ordenador (se tratan de identificar las responsabilidades) han podido superar esta pobre
+visión de conversación interactiva. Mantovani nos dice, el tipo de Interacción Persona-Ordenador
+en un sistema no depende en primer lugar del usuario, si no del diseñador. La metáfora
+conversacional ha aparecido a partir de la posguerra, y luego se enriqueció con canales sonoros y
+graficos. La metáfora espacial es aquella en la que el usuario interactúa con otros objetos y sujetos
+dentro del espacio virtual, La mejor interfaz es aquel espacio donde el usuario puede realizar las
+actividades deseadas como si estuviera en un entorno que le resulta familiar. En otras palabras
+que se olvida que esta tratando con una máquina. .
+
+Esla puesta en escena de una red abierta a los usuarios donde se crean representaciones
+escenográficas de entornos que crean un contexto para la acción.
+
+AA medida que la cibercultura se infiltre es nuestra vida y que nuestros cuerpos simulados pasen
+más tiempo en estos lugares virtuales, más dificil resultará escapar de la metáfora espacial para
+tratar de describir estas nuevas realidades y experiencias. Por ejemplo porque visitamos un museo
+en CD-ROM, navegamos en la World Wide Web o elegimos habitar en un mundo virtual
+interpretando un personaje imaginario creado por nosotros mismos. El hombre y sus extensiones:
+la metáfora instrumental. La metáfora instrumental comenzó a tomar forma en los últimos veinte
+años cuando comenzaron a difundirse los sistemas operativos caracterizados por un entorno
+erafico de interacción. Para diferenciarlos de los viejos sistemas con introducción de ordenes a
+través del teclado, estos entornos gráficos también fueron denominados WIMP (Windows, Icons
+Mouse, Pointer). La presencia masiva de objetos interactivos en la pantalla aceleró el nacimiento
+de una nueva metáfora de las interfaces persona ordenador. El concepto de manipulación directa
+será crucial en el paso de la metáfora de la conversación a la metáfora del instrumento. Desde el
+punto de vista de la metáfora instrumental, un programa informático se presenta como una caja
+con herramientas que el usuario tiene continuamente bajo control. Para rastrear los orígenes de
+esta metáfora se debe dirigir la mirada hacia el pasado, hacia las primeras reflexiones sobre los
+
+covers:
+
